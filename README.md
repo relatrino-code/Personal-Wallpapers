@@ -9,11 +9,10 @@
 * >New wallpapers are added almsot every alternate day.)
 * >I do not own any of these wallpapers. I have just collected them from various parts of the internet.)
 * >[Contact](#code.relatrino@gmail.com)
-* >-- MIT License --
 
 
 
-This project is open source and available under the [MIT License]().
+This project is open source and available under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
 
 
 
