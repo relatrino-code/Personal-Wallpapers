@@ -4,11 +4,11 @@
 
 
 ## Table of Contents
-> Wallpapers can be found in the Wallpapers directory.)
-> Just download any wallpaper you like and make your desktop look amazing!)
-> New wallpapers are added almsot every alternate day.)
-> I do not own any of these wallpapers. I have just collected them from various parts of the internet.)
-> [Contact](mailto:admin@cloudhadoop.com)
+*> Wallpapers can be found in the Wallpapers directory.)
+*> Just download any wallpaper you like and make your desktop look amazing!)
+*> New wallpapers are added almsot every alternate day.)
+*> I do not own any of these wallpapers. I have just collected them from various parts of the internet.)
+*> [Contact](mailto:admin@cloudhadoop.com)
 
 
 
